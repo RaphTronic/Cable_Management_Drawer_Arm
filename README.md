@@ -1,6 +1,8 @@
 # Cable_Management_Drawer_Arm
 
-Fusion360 CAD model and 3D Printing files for a power cable management arm for drawers. It is inspired from server rack cable guides, and was optimized to handle use in a camper van.
+Fusion360 CAD model and 3D Printing files for a power cable management arm for docking drawers.
+
+It is inspired from server rack cable guides, and was optimized to handle use in a camper van.
 
 Details and instructions in this post: https://raphtronic.blogspot.com/2025/02/diy-swiveling-cable-guide-for-dawer-3d.html
 
