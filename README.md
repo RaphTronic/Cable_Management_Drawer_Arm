@@ -10,7 +10,7 @@ Feel free to copy, remix, whatever.
 
 Happy printing to all !
 
-![arm model](https://github.com/user-attachments/assets/917b193d-b7b5-4108-9ca2-291650cd3ef0)
+![arm model2](https://github.com/user-attachments/assets/647c7f22-772e-4b03-8b0a-e63e5b7b8e92)
 
 ![arm exploded](https://github.com/user-attachments/assets/aaefbc76-1905-43ac-a3ed-6191fadf470f)
 
