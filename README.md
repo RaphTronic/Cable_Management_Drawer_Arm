@@ -11,3 +11,7 @@ Feel free to copy, remix, whatever.
 Happy printing to all !
 
 ![arm model](https://github.com/user-attachments/assets/917b193d-b7b5-4108-9ca2-291650cd3ef0)
+
+![arm exploded](https://github.com/user-attachments/assets/aaefbc76-1905-43ac-a3ed-6191fadf470f)
+
+![20250203_131445 crop](https://github.com/user-attachments/assets/7cb4707e-e16f-400a-bd3f-8cc7863bd66e)
